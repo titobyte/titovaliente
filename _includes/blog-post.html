@@ -6,7 +6,7 @@
 
                     {% for post in site.posts %}
                     <!-- Blog Post -->
-                    <h2><a href="titovaliente.com">{{ post.title }}</a></h2>
+                    <h2><a href="titovaliente.com/jekyll/why-I-switched-to-jekyll.html">{{ post.title }}</a></h2>
 
                     <p class="lead">
                         by {{ post.author }}
@@ -20,7 +20,7 @@
                     {% endif %}
                     {{% post.excerpt %}}
 
-                    <a class="btn btn-primary" href="titovaliente.com">Read<span class="#"></span></a>
+                    <a class="btn btn-primary" href="{{ post.url }}">Read<span class="#"></span></a>
                     <hr> 
 
                     {% endfor %}
