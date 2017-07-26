@@ -16,7 +16,7 @@
 title: Tito Valiente Portfolio
 email: tito.sopena@gmail.com
 description: "Tito Valiente Portfolio is a site dedicated to showcase my resume, personal and professional projects."
-baseurl: "titovaliente.com" # the subpath of your site, e.g. /blog
+baseurl: "http://localhost:4000/https://titovaliente.github.io/" #the subpath of your site, e.g. /blog
 url: "https://titovaliente.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  https://github.com/titovaliente
