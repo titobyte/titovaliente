@@ -16,18 +16,23 @@
 title: Tito Valiente Portfolio
 email: tito.sopena@gmail.com
 description: "Tito Valiente Portfolio is a site dedicated to showcase my resume, personal and professional projects."
+<<<<<<< HEAD
 baseurl: "" #the subpath of your site, e.g. /blog
 url: "https://titovaliente.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://titovaliente.com" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> gh-pages
 twitter_username: jekyllrb
 github_username:  https://github.com/titovaliente
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# gems:
+#   - jekyll-feed
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
 
 permalink: none
 
