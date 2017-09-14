@@ -3,7 +3,7 @@ layout: post
 title: Why I switched to Jekyll
 date: 2017-5-27
 image: https://cdn.scotch.io/scotchy-uploads/2015/10/jekyll-banner.png
-lead: "Intro text"
+lead: "The switch to Jekyll"
 category: Jekyll
 subtitle: Why I moved from wordpress and dove into all things Jekyll 
 ---
