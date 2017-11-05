@@ -129,8 +129,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 45px;
 }
 #slider .block p {
-  font-family: 'Sriracha', cursive !important;
-  font-size: 3rem !important;
+  font-family: 'Sriracha', cursive;
+  font-size: 3rem;
 }
 
 /*--
