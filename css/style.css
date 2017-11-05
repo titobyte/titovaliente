@@ -2,6 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,600);
+@import url('https://fonts.googleapis.com/css?family=Sriracha');
 /* var text-decoration */
 /*--
 	Common Css
@@ -83,6 +84,13 @@ header .navbar-default .navbar-nav li a {
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
+
+/* Logo and Home slider stling */
+.logo-font {
+  font-family: 'Sriracha', cursive;
+
+}
+
 /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
@@ -121,11 +129,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 45px;
 }
 #slider .block p {
-  font-size: 23px;
-  line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
+  font-family: 'Sriracha', cursive !important;
+  font-size: 3rem !important;
 }
 
 /*--
