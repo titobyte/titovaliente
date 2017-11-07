@@ -125,7 +125,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-family: 'Open Sans', cursive;
   font-weight: 300;
-  font-size: 3em !important;
+  font-size: 4em !important;
+  text-align: center;
 }
 
 /*--
